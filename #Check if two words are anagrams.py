@@ -3,9 +3,6 @@
 # find_anagrams("hello", "check") --> False
 # find_anagrams("below", "elbow") --> True
 
-# Python3 program for the above approach
-from collections import Counter
-
 # function to check if two strings are
 # anagram or not
 def check(s1, s2):
