@@ -1,2 +1,1 @@
-# zuri_projects
-A repo for my zuri tasks and projects
+This a a simple game made with python
